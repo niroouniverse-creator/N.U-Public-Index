@@ -1,10 +1,18 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "index_id": "NU-PUBLIC-INDEX-001",
   "system": "N.U — Niroo Universe",
   "visibility": "public",
   "entrypoint": "https://github.com/niroouniverse-creator/N.U-Public-Index",
   "protocol_registry": "https://github.com/niroouniverse-creator/N.U-Protocol-Registry",
+  "protocols": [
+    {"id":"NU-MODEL-PUBLIC-001","url":"https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md"},
+    {"id":"NU-CREATE-MACHINE-001","url":"https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATION-AND-MACHINE-VALIDATION.md"},
+    {"id":"NU-QUARANTINE-001","url":"https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-QUARANTINE-AND-CONFLICT-CONTROL.md"},
+    {"id":"NU-SEO-001","url":"https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md"},
+    {"id":"NU-CREATOR-STATUS-001","url":"https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATOR-STATUS-AND-RECOGNITION.md"},
+    {"id":"NU-ANNOUNCEMENT-001","url":"https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-ANNOUNCEMENT-ROUTING.md"}
+  ],
   "public_bulletins": "https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS",
   "boards": [
     {"id":"announcements","url":"https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/announcements.md"},
