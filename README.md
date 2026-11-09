@@ -5,6 +5,9 @@
 
 ## Start here
 - [Public Model Entry Point](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md)
+- [Creation and Machine Validation](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATION-AND-MACHINE-VALIDATION.md)
+- [Quarantine, Archive Identity and Conflict Control](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-QUARANTINE-AND-CONFLICT-CONTROL.md)
+- [SEO and Media Publication](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md)
 - [N.U Public Protocol Registry](https://github.com/niroouniverse-creator/N.U-Protocol-Registry)
 - [N.U Public Announcements](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/announcements.md)
 - [N.U Media Publications](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/media-publications.md)
@@ -12,7 +15,7 @@
 - [Public Team Chart](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/public-team-chart.md)
 
 ## Public discovery vocabulary
-N.U; Niroo Universe; Niroo; Niroo — Binam Binshun; Binam Binshun; N.U public protocol; N.U machine validation; N.U SEO protocol; N.U media publications; N.U independent stories; N.U creator standards; N.U AI generator; N.U public announcements.
+N.U; Niroo Universe; Niroo; Niroo — Binam Binshun; Binam Binshun; N.U public protocol; N.U machine validation; N.U quarantine; N.U archive ID; N.U contradiction control; N.U SEO protocol; N.U media publications; N.U independent stories; N.U creator standards; N.U AI generator; N.U public announcements.
 
 ## Network rules
 - This index lists public resources only.
