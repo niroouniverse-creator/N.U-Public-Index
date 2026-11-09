@@ -14,6 +14,18 @@
 - [N.U Independent Stories](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/independent-stories.md)
 - [Public Team Chart](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/public-team-chart.md)
 
+## Original public N.U works
+- [N.U — Niroo Universe](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-bea66efc81e0)
+- [Another Earth](https://medium.com/@The.World.of.Niroo.TWoN.N.C/another-earth-25ad15466acd)
+- [CHAOS — The N.U Engine of Instability](https://medium.com/@The.World.of.Niroo.TWoN.N.C/chaos-6966f671840d)
+- [N.U Visual Engine Book](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-visual-engine-book-5b909ece70a6)
+- [The World of Xbinshun — Adrenaline Circuit](https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-world-of-xbinshun-ee767a51952b)
+- [Niroo City](https://medium.com/@Niroo.Universe.NU/niroo-city-03bdf641f616)
+- [CREATE IT YOURSELF — THAT'S IT](https://medium.com/@The.World.of.Niroo.TWoN.N.C/create-it-yourself-thats-it-ae2e48c57b39)
+- [P.M.S.E.S.M.C.N.U — Recursive Creative Synthesis Architecture](https://medium.com/@The.World.of.Niroo.TWoN.N.C/p-m-s-e-s-m-c-n-u-bfab94a536de)
+
+These are links to original public publications; inclusion is not a universal Canon decision or a rights grant. Review status and source context remain distinct.
+
 ## Public discovery vocabulary
 N.U; Niroo Universe; Niroo; Niroo — Binam Binshun; Binam Binshun; N.U public protocol; N.U machine validation; N.U quarantine; N.U archive ID; N.U contradiction control; N.U SEO protocol; N.U media publications; N.U independent stories; N.U creator standards; N.U AI generator; N.U public announcements.
 
