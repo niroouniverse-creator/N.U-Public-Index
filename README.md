@@ -35,6 +35,8 @@
 - [NIROOCITY — The Last Dream of Humanity](https://medium.com/@Niroo.Universe.NU/niroocity-c3edccff0a36)
 - [BINAM BINSHUN — The Architect of a Heaven Yet to Be Built](https://medium.com/@Niroo.Universe.NU/binam-binshun-the-world-of-niroo-the-architect-of-a-heaven-yet-to-be-built-20587fdef570)
 
+- [The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence](https://medium.com/@Niroo.Universe.NU/the-world-of-niroo-a-structural-framework-of-civilization-consciousness-and-digital-existence-d616f3f2a816)
+
 These are links to original public publications on connected N.U network profiles. Their inclusion is team-approved for network inclusion, while Canon, ownership, rights and content-review status remain distinct.
 
 ## Public discovery vocabulary
