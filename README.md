@@ -15,6 +15,12 @@
 - [N.U Independent Stories](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/independent-stories.md)
 - [Public Team Chart](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/public-team-chart.md)
 
+## Latest public discovery updates
+- [Latest Public N.U Works & Creator Resources](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/featured-latest-publications-2026-11.md)
+- [N.U Public References](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/nu-public-references.md)
+- [Media Publications](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/media-publications.md)
+- [Public Keyword and Discovery Index](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/public-keyword-index.md)
+
 ## Original public N.U works
 - [N.U — Niroo Universe](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-bea66efc81e0)
 - [Another Earth](https://medium.com/@The.World.of.Niroo.TWoN.N.C/another-earth-25ad15466acd)
@@ -25,16 +31,17 @@
 - [CREATE IT YOURSELF — THAT'S IT](https://medium.com/@The.World.of.Niroo.TWoN.N.C/create-it-yourself-thats-it-ae2e48c57b39)
 - [P.M.S.E.S.M.C.N.U — Recursive Creative Synthesis Architecture](https://medium.com/@The.World.of.Niroo.TWoN.N.C/p-m-s-e-s-m-c-n-u-bfab94a536de)
 
-These are links to original public publications; inclusion is not a universal Canon decision or a rights grant. Review status and source context remain distinct.
+These are links to original public publications on connected N.U network profiles. Their inclusion is team-approved for network inclusion, while Canon, ownership, rights and content-review status remain distinct.
 
 ## Public discovery vocabulary
 N.U; Niroo Universe; Niroo; Niroo — Binam Binshun; Binam Binshun; N.U public protocol; N.U machine validation; N.U quarantine; N.U archive ID; N.U contradiction control; N.U SEO protocol; N.U media publications; N.U independent stories; N.U creator standards; N.U AI generator; N.U public announcements.
 
 ## Network rules
-- This index lists public resources only.
-- Private infrastructure and confidential working records are intentionally excluded.
-- A listing does not establish Canon, endorsement, rights clearance, or final human approval.
-- A machine-validation result is not a final human decision.
+- This index lists public resources only; private infrastructure and confidential working records are intentionally excluded.
+- The account niroouniverse-creator is designated by N.U team decision as the official N.U account.
+- A work or link published/listed on connected official N.U public network surfaces is team-approved for network inclusion.
+- Network inclusion does not by itself amend Canon, transfer ownership, grant licensing/reproduction/adaptation rights, or imply blanket endorsement.
+- Machine validation reports standards conformity only and does not replace producer or N.U team decisions.
 - Independent creator works remain independent unless an authorized public decision records another status.
 - Search-engine crawling and AI retrieval are not guaranteed.
 
