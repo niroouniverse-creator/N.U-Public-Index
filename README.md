@@ -37,6 +37,9 @@
 
 - [The World of Niroo — A Structural Framework of Civilization, Consciousness, and Digital Existence](https://medium.com/@Niroo.Universe.NU/the-world-of-niroo-a-structural-framework-of-civilization-consciousness-and-digital-existence-d616f3f2a816)
 
+### Connected independent creator work
+- [THE WORLD OF NIROO: Lucifer, The Devil & Chaos](https://medium.com/@bibinambinshun/the-world-of-niroo-lucifer-the-devil-chaos-76143ed7394a) — independent creator fiction; network inclusion approved, Canon/rights unchanged.
+
 These are links to original public publications on connected N.U network profiles. Their inclusion is team-approved for network inclusion, while Canon, ownership, rights and content-review status remain distinct.
 
 ## Public discovery vocabulary
