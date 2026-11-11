@@ -31,6 +31,10 @@
 - [CREATE IT YOURSELF — THAT'S IT](https://medium.com/@The.World.of.Niroo.TWoN.N.C/create-it-yourself-thats-it-ae2e48c57b39)
 - [P.M.S.E.S.M.C.N.U — Recursive Creative Synthesis Architecture](https://medium.com/@The.World.of.Niroo.TWoN.N.C/p-m-s-e-s-m-c-n-u-bfab94a536de)
 
+### Additional pinned long-form works indexed 2026-11-11
+- [NIROOCITY — The Last Dream of Humanity](https://medium.com/@Niroo.Universe.NU/niroocity-c3edccff0a36)
+- [BINAM BINSHUN — The Architect of a Heaven Yet to Be Built](https://medium.com/@Niroo.Universe.NU/binam-binshun-the-world-of-niroo-the-architect-of-a-heaven-yet-to-be-built-20587fdef570)
+
 These are links to original public publications on connected N.U network profiles. Their inclusion is team-approved for network inclusion, while Canon, ownership, rights and content-review status remain distinct.
 
 ## Public discovery vocabulary
