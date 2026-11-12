@@ -44,6 +44,10 @@
 
 These are links to original public publications on connected N.U network profiles. Their inclusion is team-approved for network inclusion, while Canon, ownership, rights and content-review status remain distinct.
 
+## Connected external catalogue reference
+
+- [Niroo Univere_N.U](https://medium.com/@Black.Fox.writes/niroo-univere-n-u-99081528028d) — creator-curated catalogue linked from a connected official N.U publication; network inclusion approved for this reference link, while creator relationship and individual outbound works remain under review.
+
 ## Public discovery vocabulary
 N.U; Niroo Universe; Niroo; Niroo — Binam Binshun; Binam Binshun; N.U public protocol; N.U machine validation; N.U quarantine; N.U archive ID; N.U contradiction control; N.U SEO protocol; N.U media publications; N.U independent stories; N.U creator standards; N.U AI generator; N.U public announcements.
 
