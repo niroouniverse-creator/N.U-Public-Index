@@ -10,6 +10,7 @@
 - [SEO and Media Publication](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md)
 - [N.U Public Protocol Registry](https://github.com/niroouniverse-creator/N.U-Protocol-Registry)
 - [N.U Public Announcements](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/announcements.md)
+- [N.U Discovery Atlas](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/discovery-atlas.md)
 - [N.U Public References](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/nu-public-references.md)
 - [N.U Media Publications](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/media-publications.md)
 - [N.U Independent Stories](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/independent-stories.md)
@@ -17,6 +18,7 @@
 
 ## Latest public discovery updates
 - [Latest Public N.U Works & Creator Resources](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/featured-latest-publications-2026-11.md)
+- [N.U Discovery Atlas — Featured Notice](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/featured-nu-discovery-atlas.md)
 - [N.U Public References](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/nu-public-references.md)
 - [Media Publications](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/media-publications.md)
 - [Public Keyword and Discovery Index](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/public-keyword-index.md)
