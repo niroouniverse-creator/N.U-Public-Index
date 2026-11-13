@@ -64,3 +64,24 @@ N.U; Niroo Universe; Niroo; Niroo — Binam Binshun; Binam Binshun; N.U public p
 See [index.json](index.json).
 
 **Persian:** این فهرست، نقطه شروع عمومی برای یافتن استانداردها، اعلان‌ها، انتشارات رسانه‌ای و آثار مستقل N.U است.
+
+
+## Additional public boards
+
+- [Future Development Proposals](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/future-development-proposals.md)
+- [Creator Opportunities](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/creator-opportunities.md)
+- [Independent Publications](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/independent-publications.md)
+
+## Connected catalogue works indexed — 2026-11-13
+
+The following seven already-published works were individually inspected from the connected catalogue [Niroo Univere_N.U](https://medium.com/@Black.Fox.writes/niroo-univere-n-u-99081528028d) and added to the machine-readable public source list. They are not described as newly published on this date.
+
+- [The Sacred Trees of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-sacred-trees-of-niroo-00b035cf86fc) — 2026-06-26.
+- [The Foundational Framework of Mana Studies in Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-foundational-framework-of-mana-studies-in-niroo-toward-a-unified-theory-of-magic-life-and-c5b4ff5b21ce) — 2026-07-03.
+- [Volume I — Foundations of Mana Science](https://medium.com/@The.World.of.Niroo.TWoN.N.C/volume-i-foundations-of-mana-science-the-foundational-principles-governing-the-scientific-study-909a1aaffe0d) — 2026-07-05.
+- [Volume II — Mana Biology](https://medium.com/@The.World.of.Niroo.TWoN.N.C/volume-ii-mana-biology-the-biological-foundations-of-life-mana-interaction-abstract-d1627f8c3d11) — 2026-07-11.
+- [The World of Xbinshun](https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-world-of-xbinshun-4828bf59af2a) — 2024-10-28.
+- [The value of knowledge in Catrinland](https://medium.com/@Black.Fox.writes/the-value-of-knowledge-in-catrinland-a8972221a991) — article page date 2026-11-05.
+- [The architectural development process at Catrinland](https://medium.com/@Black.Fox.writes/the-architectural-development-process-at-catrinland-5579af4e66c2) — article page date 2026-11-05.
+
+Their network inclusion is team-approved because the exact links appear in the connected catalogue. This does not infer team membership, Canon, rights, ownership or scientific validity. Review status is recorded per source in the machine-readable index.
