@@ -56,6 +56,18 @@
     {
       "id": "public-keyword-index",
       "url": "https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/public-keyword-index.md"
+    },
+    {
+      "id": "future-development-proposals",
+      "url": "https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/future-development-proposals.md"
+    },
+    {
+      "id": "creator-opportunities",
+      "url": "https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/creator-opportunities.md"
+    },
+    {
+      "id": "independent-publications",
+      "url": "https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/independent-publications.md"
     }
   ],
   "machine_human_boundary": {
@@ -245,6 +257,41 @@
       "title": "Niroo Univere_N.U (Black Fox writes)",
       "url": "https://medium.com/@Black.Fox.writes/niroo-univere-n-u-99081528028d",
       "review_status": "IDENTIFIED_DEEPER_REVIEW_PENDING"
+    },
+    {
+      "title": "The Sacred Trees of Niroo",
+      "url": "https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-sacred-trees-of-niroo-00b035cf86fc",
+      "review_status": "PARTIALLY_REVIEWED"
+    },
+    {
+      "title": "The Foundational Framework of Mana Studies in Niroo",
+      "url": "https://medium.com/@The.World.of.Niroo.TWoN.N.C/the-foundational-framework-of-mana-studies-in-niroo-toward-a-unified-theory-of-magic-life-and-c5b4ff5b21ce",
+      "review_status": "PARTIALLY_REVIEWED"
+    },
+    {
+      "title": "Volume I — Foundations of Mana Science",
+      "url": "https://medium.com/@The.World.of.Niroo.TWoN.N.C/volume-i-foundations-of-mana-science-the-foundational-principles-governing-the-scientific-study-909a1aaffe0d",
+      "review_status": "IDENTIFIED_DEEPER_REVIEW_PENDING"
+    },
+    {
+      "title": "Volume II — Mana Biology",
+      "url": "https://medium.com/@The.World.of.Niroo.TWoN.N.C/volume-ii-mana-biology-the-biological-foundations-of-life-mana-interaction-abstract-d1627f8c3d11",
+      "review_status": "IDENTIFIED_DEEPER_REVIEW_PENDING"
+    },
+    {
+      "title": "The World of Xbinshun (historical 2024 publication)",
+      "url": "https://medium.com/@The.World.of.Xbinshun.TWoXbi/the-world-of-xbinshun-4828bf59af2a",
+      "review_status": "PARTIALLY_REVIEWED"
+    },
+    {
+      "title": "The value of knowledge in Catrinland",
+      "url": "https://medium.com/@Black.Fox.writes/the-value-of-knowledge-in-catrinland-a8972221a991",
+      "review_status": "PARTIALLY_REVIEWED"
+    },
+    {
+      "title": "The architectural development process at Catrinland",
+      "url": "https://medium.com/@Black.Fox.writes/the-architectural-development-process-at-catrinland-5579af4e66c2",
+      "review_status": "PARTIALLY_REVIEWED"
     }
   ],
   "public_reference_board": "https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/nu-public-references.md",
