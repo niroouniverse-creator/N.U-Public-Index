@@ -85,3 +85,19 @@ The following seven already-published works were individually inspected from the
 - [The architectural development process at Catrinland](https://medium.com/@Black.Fox.writes/the-architectural-development-process-at-catrinland-5579af4e66c2) — article page date 2026-11-05.
 
 Their network inclusion is team-approved because the exact links appear in the connected catalogue. This does not infer team membership, Canon, rights, ownership or scientific validity. Review status is recorded per source in the machine-readable index.
+
+
+## Catrinland catalogue works indexed — 2026-11-14
+
+Ten already-published Catrinland works linked from the connected [Niroo Univere_N.U catalogue](https://medium.com/@Black.Fox.writes/niroo-univere-n-u-99081528028d) were individually opened and added to the public source index. They are not described as newly published on this date. Review status is PARTIALLY_REVIEWED; Canon, rights, asset reuse and full continuity remain separate.
+
+- [Family and Child Protection Laws in Catrinland](https://medium.com/@Black.Fox.writes/family-and-child-protection-laws-in-catrinland-64f7938af9f1) — relative date: 2 days ago at retrieval 2026-11-14.
+- [The Value of People’s Mental Health in Catrinland](https://medium.com/@Black.Fox.writes/the-value-of-peoples-mental-health-in-catrinland-712b7ce4d60d) — 2026-11-01.
+- [Catrinland Citizenship Rights](https://medium.com/@Black.Fox.writes/catrinland-citizenship-rights-5b73244c8a86) — 2026-11-01.
+- [The Laws of Catrinland](https://medium.com/@Black.Fox.writes/the-laws-of-catrinland-fd332b1c1b93) — 2026-11-01.
+- [Institutions of Catrinland](https://medium.com/@Black.Fox.writes/institutions-of-catrinland-e42323c2a3ac) — 2026-11-02.
+- [Observercat](https://medium.com/@Black.Fox.writes/observercat-75fd3425a61e) — 2026-11-03.
+- [Black Rose](https://medium.com/@Black.Fox.writes/black-rose-f1f788f8b562) — 2026-11-03.
+- [White Rose](https://medium.com/@Black.Fox.writes/white-rose-5ec497727efd) — 2026-11-03.
+- [Ordinary Life in Catrinland / Story of Raha](https://medium.com/@Black.Fox.writes/ordinary-life-in-catrinland-story-of-raha-0d05a1d91848) — 2026-11-03.
+- [Story Remy’s Life / The Life of a Catrinland Citizen](https://medium.com/@Black.Fox.writes/remys-life-the-life-of-a-catrinland-citizen-b939233f3434) — 2026-11-04.
