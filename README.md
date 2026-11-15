@@ -101,3 +101,8 @@ Ten already-published Catrinland works linked from the connected [Niroo Univere_
 - [White Rose](https://medium.com/@Black.Fox.writes/white-rose-5ec497727efd) — 2026-11-03.
 - [Ordinary Life in Catrinland / Story of Raha](https://medium.com/@Black.Fox.writes/ordinary-life-in-catrinland-story-of-raha-0d05a1d91848) — 2026-11-03.
 - [Story Remy’s Life / The Life of a Catrinland Citizen](https://medium.com/@Black.Fox.writes/remys-life-the-life-of-a-catrinland-citizen-b939233f3434) — 2026-11-04.
+
+
+## Reference-review update — 2026-11-15
+
+- [From the Multiverse to the Atom: Where Earth and Humanity Stand in the Map of Reality](https://medium.com/@The.World.of.Niroo.TWoN.N.C/multiverse-57cb2a079caa) — already-published connected N.U article; public index status PARTIALLY_REVIEWED. A limited reference check found a Read & Le Bihan DOI mismatch; correction at the original source is pending. See [ANN-2026-0009](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/announcements.md) and the [verified bibliographic DOI](https://doi.org/10.1007/s11229-021-03137-0). This notice is not a scientific peer-review or machine-validator result.
