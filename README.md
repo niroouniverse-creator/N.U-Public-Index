@@ -17,7 +17,7 @@
 - [Public Team Chart](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/public-team-chart.md)
 
 ## Latest public discovery updates
-- [N.U DISCOVERY ATLAS — An Atlas for Discovering the World of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-discovery-atlas-dd1889d48b52) — profile listing verified 2026-11-19; exact timestamp unverified; direct article retrieval timed out; content review pending; see [ANN-2026-0012](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/announcements.md).
+- [N.U DISCOVERY ATLAS — An Atlas for Discovering the World of Niroo](https://medium.com/@The.World.of.Niroo.TWoN.N.C/n-u-discovery-atlas-dd1889d48b52) — full article page retrieved 2026-11-20; human-assisted structure/navigation review PASS_WITH_LIMITATIONS; all seven linked destinations opened; exact date, cover-image rights and machine validation remain unverified; see [ANN-2026-0012](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/announcements.md).
 - [Latest Public N.U Works & Creator Resources](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/featured-latest-publications-2026-11.md)
 - [N.U Discovery Atlas — Featured Notice](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/banners/featured-nu-discovery-atlas.md)
 - [N.U Public References](https://github.com/niroouniverse-creator/NU-PUBLIC-BULLETINS/blob/main/boards/nu-public-references.md)
