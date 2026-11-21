@@ -6,6 +6,7 @@
 ## Start here
 - [Public Model Entry Point](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-PUBLIC-MODEL-ENTRYPOINT.md)
 - [Creation and Machine Validation](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-CREATION-AND-MACHINE-VALIDATION.md)
+- [Book and Book-Motor Production](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-BOOK-AND-BOOK-MOTOR-PRODUCTION.md)
 - [Quarantine, Archive Identity and Conflict Control](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-QUARANTINE-AND-CONFLICT-CONTROL.md)
 - [SEO and Media Publication](https://github.com/niroouniverse-creator/N.U-Protocol-Registry/blob/main/protocols/NU-SEO-AND-MEDIA-PUBLICATION.md)
 - [N.U Public Protocol Registry](https://github.com/niroouniverse-creator/N.U-Protocol-Registry)
